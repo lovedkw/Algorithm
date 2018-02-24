@@ -4,6 +4,9 @@
 
 #pragma once
 
+#include <windows.h>
+#include <string>
+
 class CAlgorithm
 {
 private:
